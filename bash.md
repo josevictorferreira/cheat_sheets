@@ -46,12 +46,15 @@ if [[ -n "$string" ]]; then
 fi
 ```
 
-#### Count the arguments
+#### Count the number of arguments
 ```bash
 num_arguments="$#"
+```
 
-#### String is not empty
+#### Range
 ```bash
-if [[ -n "$string" ]]; then
-	echo "Not empty"
-fi
+for letter in {a..z}; do echo $letter; done
+for value in {0..5}; do echo $value; done 
+```
+
+

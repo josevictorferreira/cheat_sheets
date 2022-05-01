@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "abbcf9a0768d6be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af911982abd268c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bash.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee1be6640b2bedd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd6635f82f001ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f516b8415c3d8729",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f58571f71487b1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96d13438cd9f1b0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e2ac17af899e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905617c398d3995a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bash.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7af911982abd268c",
+  "lastOpenFiles": [
+    "bash.md",
+    "clean_architecture.md",
+    "design_patterns.md",
+    "linux.md",
+    "kubernetes.md"
+  ]
+}

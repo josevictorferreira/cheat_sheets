@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bash.md",
+            "file": "kubernetes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash.md",
+                "file": "kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "7af911982abd268c",
   "lastOpenFiles": [
-    "bash.md",
-    "clean_architecture.md",
+    "kubernetes.md",
     "design_patterns.md",
-    "linux.md",
-    "kubernetes.md"
+    "clean_architecture.md",
+    "bash.md",
+    "linux.md"
   ]
 }

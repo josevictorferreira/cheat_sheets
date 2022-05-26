@@ -14,3 +14,9 @@ Connect PSQL to a remote postgresql host:
 ```bash
 psql -h remote_host.rds.amazonaws.com -p 5432 -U postgres -W
 ```
+
+Check if DNS is working: 
+```bash
+dig @10.10.10.100 globo.com
+```
+

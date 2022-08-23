@@ -10,10 +10,6 @@ List all env variables on system:
 printenv
 ```
 
-Connect PSQL to a remote postgresql host: 
-```bash
-psql -h remote_host.rds.amazonaws.com -p 5432 -U postgres -W
-```
 
 Check if DNS is working: 
 ```bash

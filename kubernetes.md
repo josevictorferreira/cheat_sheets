@@ -19,6 +19,11 @@ Change current context:
 kubectl config use-context my-cluster-name
 ```
 
+See the memory and CPU of the pod
+```bash
+kubectl top pod booster-georef-measures-service-78b6dcb6df-snzzg -n staging
+```
+
 ### Namespaces
 
 View all namespaces:

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "kubernetes.md",
+            "file": "Book Data Intensive Applications.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes.md",
+                "file": "Book Data Intensive Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,12 @@
   },
   "active": "7af911982abd268c",
   "lastOpenFiles": [
-    "kubernetes.md",
-    "design_patterns.md",
     "clean_architecture.md",
-    "bash.md",
-    "linux.md"
+    "Book Data Intensive Applications.md",
+    "design_patterns.md",
+    "kubernetes.md",
+    "postgres.md",
+    "linux.md",
+    "bash.md"
   ]
 }

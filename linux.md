@@ -10,9 +10,12 @@ List all env variables on system:
 printenv
 ```
 
-
 Check if DNS is working: 
 ```bash
 dig @10.10.10.100 globo.com
 ```
 
+Check openssl certificate for a given domain:
+```bash
+echo | openssl s_client -connect cultivointeligente.com.br:443 -servername cultivointeligente.com.br 2>/dev/null | grep -E -A1 '^\ [0-9]?\ s:'
+```

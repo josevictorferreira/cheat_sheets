@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7af911982abd268c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "postgres.md",
-            "mode": "source",
-            "source": false
+        "id": "63282dc6332537b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7af911982abd268c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres.md",
+                "file": "linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +97,12 @@
   },
   "active": "7af911982abd268c",
   "lastOpenFiles": [
-    "linux.md",
-    "kubernetes.md",
-    "design_patterns.md",
-    "clean_architecture.md",
-    "Book Data Intensive Applications.md",
     "bash.md",
+    "Book Data Intensive Applications.md",
+    "clean_architecture.md",
+    "design_patterns.md",
+    "kubernetes.md",
+    "linux.md",
     "postgres.md"
   ]
 }

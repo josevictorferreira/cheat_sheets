@@ -24,3 +24,13 @@ Download a file from remote using ssh:
 ```bash
 scp -i strapi.pem ubuntu@urlorip.toserver.com:/home/ubuntu/file.zip /home/josevictor/Documents/
 ```
+p
+Zip a folder:
+```bash
+zip -r sync.zip sync
+```
+
+Unzip a zip file:
+```bash
+unzip -q sync.zip
+```

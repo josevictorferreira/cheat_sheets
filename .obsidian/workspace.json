@@ -97,12 +97,12 @@
   },
   "active": "7af911982abd268c",
   "lastOpenFiles": [
+    "postgres.md",
     "bash.md",
+    "linux.md",
     "Book Data Intensive Applications.md",
     "clean_architecture.md",
     "design_patterns.md",
-    "kubernetes.md",
-    "linux.md",
-    "postgres.md"
+    "kubernetes.md"
   ]
 }

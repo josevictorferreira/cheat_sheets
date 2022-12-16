@@ -47,3 +47,8 @@ Delete a helm:
 ```bash
 helm delete my-release
 ```
+
+List all persistent volumes:
+```bash
+kubectl get pv
+````

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes.md",
+                "file": "bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87012c8465a1a1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgres.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes.md",
+                "file": "postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,14 +108,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7af911982abd268c",
+  "active": "87012c8465a1a1b0",
   "lastOpenFiles": [
-    "linux.md",
+    "Setting Up Kubernetes Cluster.md",
     "kubernetes.md",
     "postgres.md",
+    "linux.md",
     "design_patterns.md",
-    "clean_architecture.md",
+    "bash.md",
     "Book Data Intensive Applications.md",
-    "bash.md"
+    "clean_architecture.md"
   ]
 }

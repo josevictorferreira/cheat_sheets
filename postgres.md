@@ -22,3 +22,9 @@ Restore Dump of database:
 ```bash
 pg_restore -h localhost -p 5441 -U postgres -c -d weather_forecast_service_production dump.sql
 ```
+
+Restore dump file with inserts(for better compatibility when dumping for different major versions):
+
+```bash
+pg_dump -h host.com -U postgres -f dump.sql weather_forecast_service_production --inserts
+```

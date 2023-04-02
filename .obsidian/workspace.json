@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres.md",
+                "file": "linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres.md",
+                "file": "linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +119,9 @@
   },
   "active": "87012c8465a1a1b0",
   "lastOpenFiles": [
+    "postgres.md",
     "Setting Up Kubernetes Cluster.md",
     "kubernetes.md",
-    "postgres.md",
     "linux.md",
     "design_patterns.md",
     "bash.md",

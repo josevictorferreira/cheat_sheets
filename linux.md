@@ -34,3 +34,17 @@ Unzip a zip file:
 ```bash
 unzip -q sync.zip
 ```
+
+### Analyzing Slow Boot
+
+Use the command to analyze slow services in the boot process:
+
+```bash
+systemd-analyze blame
+```
+
+### Transfering local files using SSH
+
+```bash
+scp file.txt root@10.10.10.200:/root
+```

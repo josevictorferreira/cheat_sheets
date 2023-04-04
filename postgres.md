@@ -35,6 +35,10 @@ First, generate the dump of the database:
 ```bash
 pg_dump -h localhost -U postgres --no-acl --no-owner -f georef_measures_service_backup.sql georef_measures_service_production
 ```
+If you wanna dump only insert options from the database:
+```bash
+pg_dump --column-inserts --data-only --table=<table> <database>
+```
 
 After the dump is generated in a plain text ".sql" file, edit the file and add the following to the start:
 ```sql

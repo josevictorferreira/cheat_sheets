@@ -52,3 +52,8 @@ List all persistent volumes:
 ```bash
 kubectl get pv
 ````
+
+Create 
+```bash
+kubectl create secret docker-registry mysecretname --docker-server=https://ghcr.io --docker-username=mygithubusername --docker-password=mygithubreadtoken --docker-email=mygithubemail
+```

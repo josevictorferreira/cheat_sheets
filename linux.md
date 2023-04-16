@@ -48,3 +48,9 @@ systemd-analyze blame
 ```bash
 scp file.txt root@10.10.10.200:/root
 ```
+
+### Doing benchmark and stree requests with Apache Ab Tool
+
+```bash
+ab -n 100 -c 10 -l http://localhost:3000/radar/tiles/1681606800000_1681600500000_0_0_1.png
+```
